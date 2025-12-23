@@ -1,3 +1,5 @@
+[日本語はこちら](README-ja.md)
+
 # Small-Business-Operations-Platform-Project
 
 The goal of this project is **not just to build an app**, but to:
