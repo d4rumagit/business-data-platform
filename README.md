@@ -3,7 +3,7 @@
 The goal of this project is **not just to build an app**, but to:
 - Learn **SQL, data modeling, and reporting**
 - Learn **backend development using Go**
-- Learn **basic frontend development using HTML and CSS**
+- Implement **basic frontend development using HTML and CSS**
 - Understand how **real internal tools** are designed and used in companies
 
 This project intentionally mirrors:
