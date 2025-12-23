@@ -1,7 +1,4 @@
 # Small-Business-Operations-Platform-Project
-This project is a fullstack "internal business management system" designed to simulate realworld software used by small to medium sized businesses (SMBs).
-
-This project is a **full-stack internal business management system** designed to simulate real-world software used by small to medium-sized businesses (SMBs).
 
 The goal of this project is **not just to build an app**, but to:
 - Learn **SQL, data modeling, and reporting**
